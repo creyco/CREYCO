@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CREYCO
 - 👀 I am interested in web development.
 - 🌱 I’m currently learning Python ,JavaScript, HTML, 
-- 💞️ I’m looking to collaborate on UNER
+- 💞️ I’m looking to collaborate on others who are starting
 - - 📫 How to reach me ...creycolon@gmail.com
 
 <!---
