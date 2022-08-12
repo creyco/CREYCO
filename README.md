@@ -3,10 +3,11 @@
 - 🌱 I’m currently learning Python ,JavaScript, go, HTML
 - 👀 I have worked with Progress 4gl ABL and 4gl natural
 - 👀 I am a certified Oracle and Progress Database administrator
+- 👀 I have experience in languages 3gl, Cobol, all-Basic db/fox/clipper, pascal, Php, Html, ccs
 - 💞️ I’m looking to collaborate on others who are starting
-- - 📫 How to reach me ...creycolon@gmail.com
+- - 📫 How to reach me ...chistiamrey@gmail.com
 
 <!---
-CREYCO/CREYCO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+cereyco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
