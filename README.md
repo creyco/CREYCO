@@ -5,9 +5,9 @@
 - 👀 I have worked with database with Oracle (Certified), Mysql, Firebord, PosgreSql 
 - 👀 I am a certified Oracle and Progress Database administrator
 - -  experience in languages 3gl, Cobol, (*)-Basic db/fox/clipper, cobol, pascal, php, Html, ccs
-- -  experience in linux sysadmin, nets, bash, awk, vi
+- -  experience in linux sysadmin (certified), networking, firewalls,vpn, vps
 - 💞️ I’m looking to collaborate on others who are starting
-- - 📫 How to reach me ...chistiamrey@gmail.com
+- - 📫 How to reach me ...chistiamrey@gmail.com celphone: +54 3447 434659
      I talk about my experience in different IT fields working for different companies 
      and projects and my current situation and future projects
 <!---
