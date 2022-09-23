@@ -7,7 +7,7 @@
 - -  experience in languages 3gl, Cobol, (*)-Basic db/fox/clipper, cobol, pascal, php, Html, ccs
 - -  experience in linux sysadmin (certified), networking, firewalls,vpn, vps
 - 💞️ I’m looking to collaborate on others who are starting
-- - My almamater UNR UTN UNER
+- - My almamater UNR UTN UNER UNAJ
 - - 📫 How to reach me ...chistiamrey@gmail.com celphone: +54 3447 434659
      I talk about my experience in different IT fields working for different companies 
      and projects and my current situation and future projects
