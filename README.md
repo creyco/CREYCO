@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChristiamRey
 - 👀 I am interested in web and movil development.
-- 🌱 I’m currently learning Python,JavaScript, Typescript, html,css, nodejs, react, react native, angular, nextjs, astrales,
+- 🌱 I’m currently learning Python,JavaScript, Typescript, html,css, nodejs, react, vite, react native, angular, nextjs, astra
 - 👀 I have worked with Open edge Progress 4gl ABL and 4gl natural  (Certified)
 - 👀 I have worked with database with Oracle (Certified), Mysql, Firebord, PosgreSql 
 - 👀 I am a certified Oracle and Progress Database administrator
